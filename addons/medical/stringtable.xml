@@ -3,7 +3,7 @@
     <Package name="Medical">
         <Key ID="STR_ACE_Medical_Category">
             <English>ACE Medical</English>
-            <Russian>ACE: медицина</Russian>
+            <Russian>ACE Медицина</Russian>
             <Polish>ACE Opcje medyczne</Polish>
             <Spanish>Médico ACE</Spanish>
             <German>ACE-Medicsystem</German>
